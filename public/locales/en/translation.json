@@ -1,0 +1,13 @@
+{
+    "Menu": {
+        "1": "Home",
+        "2": "Shop",
+        "3": "Features",
+        "4": "Blog",
+        "5": "About",
+        "6": "Contact"
+    },
+    "Why": {
+        "1": "For watching this video"
+    }
+}
